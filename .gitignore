@@ -1,0 +1,4 @@
+TwinLink.exe
+*.partial
+
+tests/TransferTests.exe
